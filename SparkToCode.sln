@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Db", "Db\Db.csproj", "{BFC3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program1", "..\..\SparkToCode\Program1\Program1.csproj", "{66E2B714-26A5-48F7-89C5-E78884D6C3DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagementSystem", "..\..\SparkToCode\StudentManagementSystem\StudentManagementSystem.csproj", "{F209FDF9-FAFF-4511-B199-EB629885EBEE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{66E2B714-26A5-48F7-89C5-E78884D6C3DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66E2B714-26A5-48F7-89C5-E78884D6C3DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66E2B714-26A5-48F7-89C5-E78884D6C3DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F209FDF9-FAFF-4511-B199-EB629885EBEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F209FDF9-FAFF-4511-B199-EB629885EBEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F209FDF9-FAFF-4511-B199-EB629885EBEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F209FDF9-FAFF-4511-B199-EB629885EBEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
