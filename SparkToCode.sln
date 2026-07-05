@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagementSystem", "..\..\SparkToCode\StudentManagementSystem\StudentManagementSystem.csproj", "{1190D0F1-48D2-4AC1-91AB-C0A404FE50CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpFunctions", "..\..\SparkToCode\CsharpFunctions\CsharpFunctions.csproj", "{AA4B59D4-279B-46AD-91B9-3797B2466E42}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{1190D0F1-48D2-4AC1-91AB-C0A404FE50CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1190D0F1-48D2-4AC1-91AB-C0A404FE50CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1190D0F1-48D2-4AC1-91AB-C0A404FE50CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA4B59D4-279B-46AD-91B9-3797B2466E42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA4B59D4-279B-46AD-91B9-3797B2466E42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA4B59D4-279B-46AD-91B9-3797B2466E42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA4B59D4-279B-46AD-91B9-3797B2466E42}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
