@@ -35,6 +35,13 @@ class Program
 
         DateTime timing = DateTime.Today;
         Console.WriteLine(timing);
+        
+        
+        DateTime startSubscription = DateTime.Today;
+        DateTime endSubscription = startSubscription.AddDays(30);
+
+        Console.WriteLine("your subscription ends on: " + endSubscription);
+
 
 
 
