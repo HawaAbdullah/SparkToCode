@@ -41,6 +41,33 @@ class Program
         DateTime endSubscription = startSubscription.AddDays(30);
 
         Console.WriteLine("your subscription ends on: " + endSubscription);
+        
+        //stringName.functionName(parameters)
+
+        Console.WriteLine("enter a word:");
+        string word = Console.ReadLine();
+
+        int length = word.Length;              // returns length of string
+        word.Substring(7, 5);                  // extracts part of string
+        string upperedWord = word.ToUpper();   // convert to uppercase
+        string loweredWord = word.ToLower();   // convert to lowercase
+        
+        /////////////////////
+        string name = "Ahmed";
+
+        Console.WriteLine("enter your name:");
+        string input = Console.ReadLine();
+
+        
+        if (input.ToUpper() == name.ToUpper())
+        {
+            Console.WriteLine("welcome to application, successful sign in");
+        }
+        else
+        {
+            Console.WriteLine("invalid name, please try again");
+        }
+
 
 
 
