@@ -67,6 +67,8 @@ class Program
         {
             Console.WriteLine("invalid name, please try again");
         }
+        
+        bool containsResult = word.Contains("hi");
 
 
 
