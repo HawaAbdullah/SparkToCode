@@ -20,6 +20,14 @@ class Program
         double result = Math.Cos(userInput);
         Console.WriteLine(result);
         
+        Console.WriteLine("enter base number:");
+        float baseNumber = float.Parse(Console.ReadLine());
+
+        Console.WriteLine("enter power number:");
+        float powerNumber = float.Parse(Console.ReadLine());
+
+        double result2 = Math.Pow(baseNumber, powerNumber);
+        Console.WriteLine(result2);
         
 
         
