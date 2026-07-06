@@ -29,6 +29,14 @@ class Program
         double result2 = Math.Pow(baseNumber, powerNumber);
         Console.WriteLine(result2);
         
+        //this is data and time fun
+        DateTime currentTiming = DateTime.Now;
+        Console.WriteLine(currentTiming);
+
+        DateTime timing = DateTime.Today;
+        Console.WriteLine(timing);
+
+
 
         
         
